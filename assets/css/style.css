@@ -26,7 +26,6 @@ nav{
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    border: 1px pink solid;
     /* padding-left:30px;
     padding-right:30px;   */
 }
@@ -34,12 +33,10 @@ nav{
     float: left; 
     background-color:#4aaaa5; 
     color:aliceblue;
-    border: 1px black solid;
     padding: 20px;
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 ul{
-    border: hotpink 1px solid;
     list-style-type: none;
     overflow: hidden;
     margin-top:30px;
@@ -57,7 +54,6 @@ li a {
 }
 .section{
     position: absloute;
-    border: tomato 1px solid;
     padding:30px;
 }
 section{
@@ -86,7 +82,7 @@ section h1{
     margin:10px;
 }
 .text-section p{
-    margin: 10px 0 22px 0;
+    margin: 10px 5px 22px 5px;
 }
 
 /* Portfolio.html */
@@ -114,7 +110,7 @@ section h1{
     color: #e9e9e9;
     width: 100%;
     padding: 10px;
-    margin: 10px 0 22px 0;
+    margin: 5px;
 }
 /* the Contant.html */
 input{
