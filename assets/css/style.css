@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     margin:0;
     padding: 0;
@@ -66,4 +71,16 @@ section{
 }
 section h1{
     color:#4aaaa5; 
+}
+
+/* Portfolio.html */
+
+.Group-img{
+    display: flex-box;
+    padding: 20px;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.pic{
+
 }
