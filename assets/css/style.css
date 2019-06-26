@@ -85,7 +85,7 @@ section h1{
     height:160px;
     margin:10px;
 }
-p{
+.text-section p{
     margin: 10px 0 22px 0;
 }
 
@@ -114,7 +114,7 @@ p{
     color: #e9e9e9;
     width: 100%;
     padding: 10px;
-    margin: 5px;
+    margin: 10px 0 22px 0;
 }
 /* the Contant.html */
 input{
@@ -142,4 +142,24 @@ button{
     border-radius: 5px;
     border:none;
     margin: 10px 0 22px 0;
+}
+
+/* footer */
+footer{
+    background-color: #4aaaa5;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    height:60px;
+    margin: 0;
+    padding: 0;
+}
+.foot-t{
+    background-color: #777777;
+    position: absolute;
+    bottom:0px;
+    width:100%;
+    height:50px;
+    color: #e9e9e9;
+    font-size: 10px;
 }
